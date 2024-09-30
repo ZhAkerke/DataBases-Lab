@@ -21,3 +21,7 @@ CREATE TABLE tasks (
 	name VARCHAR(50),
 	user_id INTEGER
 )
+
+DROP TABLE tasks;
+
+DROP DATABASE lab1;
